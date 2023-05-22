@@ -5,6 +5,8 @@ import 'firebase/database';
 const config = {
   apiKey: 'AIzaSyBPrpl9pl_45pfweVVTlMY6r8n2nqPxq9o',
   authDomain: 'chatterbox-5f17f.firebaseapp.com',
+  databaseURL:
+    'https://chatterbox-5f17f-default-rtdb.asia-southeast1.firebasedatabase.app',
   projectId: 'chatterbox-5f17f',
   storageBucket: 'chatterbox-5f17f.appspot.com',
   messagingSenderId: '384874596336',
